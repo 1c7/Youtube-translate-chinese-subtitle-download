@@ -1,9 +1,9 @@
 ## 下载 Youtube 翻译的中文字幕
 Youtube 自带了翻译字幕功能，这里这个程序能解决的问题是：下载这个字幕
-![1](img/10.jpg)
-![2](img/11.jpg)
-![3](img/12.jpg)    
-![3](img/13.jpg)    
+![y1](img/get1.jpg)
+![y2](img/get2.jpg)
+![y3](img/get3.jpg)    
+![y4](img/get4.jpg)    
 
 ## 使用方式：    
 ![1](img/1.jpg)
